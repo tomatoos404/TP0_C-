@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TP0_C++.vcxproj" />
+  <Project Path="../test/test.vcxproj" Id="5ddaa8e5-c5e3-4094-b714-a598d57d55f0" />
+  <Project Path="TP0_C++.vcxproj" Id="b39e97ab-b3a8-4edc-aa85-ca8c42f2081c" />
 </Solution>

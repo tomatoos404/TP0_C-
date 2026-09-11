@@ -5,8 +5,8 @@ using namespace std;
 void main() {
 	int compteur = 0;
 	int n;
-	int somme = 0;
 	cout << "Entrez un entier n ";
+	int somme = 0;
 	cin >> n;
 	while (compteur <= n) {
 
